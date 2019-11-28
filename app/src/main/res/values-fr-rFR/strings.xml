@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="Apellido">eclater</string>
+    <string name="Bievenida">Bienvenue sur le registre des étudiants</string>
+    <string name="Error1">Entrez un nom</string>
+    <string name="Error2">Entrez un nom de famille</string>
+    <string name="Error3">Entrez un numéro de compte à neuf chiffres</string>
+    <string name="Error4">Sélectionnez l\'une des deux options</string>
+    <string name="Hombre">Homme</string>
+    <string name="Genero">genre</string>
+    <string name="Lista">prêt</string>
+    <string name="Mensaje">Entrez les informations suivantes</string>
+    <string name="Mujer">Femme</string>
+    <string name="Nombre">nom</string>
+    <string name="cuenta">Aucun compte</string>
+    <string name="ingresar">Se connecter</string>
+    <string name="regresar">Retour</string>
+    <string name="registro">enregistrement correct</string>
+</resources>

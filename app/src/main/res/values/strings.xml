@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="Bievenida">Bienvenido al registro de alumnos</string>
+    <string name="Mensaje">Ingrese los siguientes datos</string>
+
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="cuenta">No. cuenta</string>
+
+    <string name="Genero">Genero</string>
+    <string name="Hombre">Hombre</string>
+    <string name="Mujer">Mujer</string>
+
+    <string name="ingresar">Ingresar</string>
+    <string name="Lista">Lista</string>
+    <string name="regresar">Regresar</string>
+
+    <string name="Error1">Ingrese un nombre</string>
+    <string name="Error2">Ingrese un apellido</string>
+    <string name="Error3">Ingrese un numero de cuenta de nueve digitos</string>
+    <string name="Error4">Seleccione alguna de las dos opciones</string>
+    <string name="registro">Registro correcto</string>
+</resources>

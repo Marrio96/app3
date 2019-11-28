@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="Apellido">Lastname</string>
+    <string name="Bievenida">Welcome tohe student registry</string>
+    <string name="Error1">input name</string>
+    <string name="Error2">Input a lastname</string>
+    <string name="Error3">enter nine digit account number</string>
+    <string name="Error4">any selection of the option</string>
+    <string name="Hombre">Man</string>
+    <string name="Lista">List</string>
+    <string name="Genero">Gender</string>
+    <string name="Mensaje">enter the following data</string>
+    <string name="Mujer">Woman</string>
+    <string name="Nombre">Name</string>
+    <string name="cuenta">Account number</string>
+    <string name="ingresar">Input</string>
+    <string name="regresar">Back</string>
+    <string name="registro">succesfully  registration</string>
+</resources>
